@@ -21,3 +21,24 @@ In this project, a dataset that contains information on customer churn was analy
 - Is there a relationship between the number of orders placed in the last month and the churn rate? Do customers who place more orders have lower churn rates?
 - How does the time since the last order impact the churn rate? Do customers who haven't placed an order for a long time have a higher likelihood of churning?
 - Does the average cashback amount influence the churn rate? Are customers who receive higher cashback amounts less likely to churn?
+
+## Questions for prediction
+- Churn Prediction: predict whether a customer is likely to churn in the future (using one or more factors).This prediction can help businesses proactively identify customers at risk of churn and take appropriate measures to retain them.
+- Preferred Payment Mode: Predict the preferred payment mode of a customer based on their demographic information, purchase history, and other relevant factors. This prediction can assist in personalizing payment options and improving the overall customer experience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
