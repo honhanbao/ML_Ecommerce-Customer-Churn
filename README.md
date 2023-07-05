@@ -26,7 +26,8 @@
 - Does the average cashback amount influence the churn rate? Are customers who receive higher cashback amounts less likely to churn?
 
 ## Questions for prediction
-- Churn Prediction: Predict whether a customer is likely to churn in the future (using one or more factors).This prediction can help businesses proactively identify customers at risk of churn and take appropriate measures to retain them.
+- Churn Prediction:
+  -- Predict whether a customer is likely to churn in the future (using one or more factors).This prediction can help businesses proactively identify customers at risk of churn and take appropriate measures to retain them.
 - Preferred Payment Mode: Predict the preferred payment mode of a customer based on their demographic information, purchase history, and other relevant factors. This prediction can assist in personalizing payment options and improving the overall customer experience.
 - Order Category Preference: Predict the preferred order category of a customer. This prediction can aid in targeted marketing campaigns and product recommendations, enhancing customer engagement and satisfaction.
 - Customer Satisfaction: Predict the satisfaction score of a customer based on various factors such as order count, complaint history, and cashback amount. This prediction can help identify customers who may require additional attention or support to improve their satisfaction level.
