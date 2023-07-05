@@ -1,10 +1,10 @@
 # Ecommerce-Customer-Churn
 ## dataset:
 - The dataset provided contains information related to customer churn in an e-commerce business. It encompasses various columns that capture important attributes and characteristics of customers, allowing for analysis and prediction of churn behavior.
-- The dataset is designed to enable businesses to gain insights into factors that contribute to customer attrition and develop strategies to mitigate churn and improve customer retention.
-- 
+
+  
 ## Description
-In this project, a dataset that contains information on customer churn was analyzed.
+In this project, analysis is designed to enable businesses to gain insights into factors that contribute to customer attrition and develop strategies to mitigate churn and improve customer retention.
 
 ## Business Questions to be analyzed
 - What is the overall churn rate for the e-commerce business?
