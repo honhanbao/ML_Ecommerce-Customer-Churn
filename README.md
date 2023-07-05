@@ -4,7 +4,7 @@
 
   
 ## Description
-In this project, analysis is designed to enable businesses to gain insights into factors that contribute to customer attrition and develop strategies to mitigate churn and improve customer retention.
+- In this project, analysis is designed to enable businesses to gain insights into factors that contribute to customer attrition and develop strategies to mitigate churn and improve customer retention.
 
 ## Business Questions to be analyzed
 - What is the overall churn rate for the e-commerce business?
