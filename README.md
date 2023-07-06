@@ -30,11 +30,21 @@
 - Churn Prediction:
   - Predict whether a customer is likely to churn in the future (using one or more factors).
   - To identify customers at risk of churn and take appropriate measures to retain them.
-- Preferred Payment Mode: Predict the preferred payment mode of a customer based on their demographic information, purchase history, and other relevant factors. This prediction can assist in personalizing payment options and improving the overall customer experience.
-- Order Category Preference: Predict the preferred order category of a customer. This prediction can aid in targeted marketing campaigns and product recommendations, enhancing customer engagement and satisfaction.
-- Customer Satisfaction: Predict the satisfaction score of a customer based on various factors such as order count, complaint history, and cashback amount. This prediction can help identify customers who may require additional attention or support to improve their satisfaction level.
-- Coupon Usage Prediction: Predict the likelihood of a customer using coupons in the future. This prediction can enable businesses to tailor coupon offers to individual customers, maximizing the effectiveness of promotional campaigns.
-- Cashback Amount Prediction: Predict the average cashback amount a customer is likely to receive in a given month. This prediction can help in optimizing cashback offers and incentivizing customer loyalty.
+- Preferred Payment Mode:
+  - Predict the preferred payment mode of a customer based on their demographic information, purchase history, and other relevant factors.
+  - To assist in personalizing payment options and improving the overall customer experience.
+- Order Category Preference:
+  - Predict the preferred order category of a customer. 
+  - To aid in targeted marketing campaigns and product recommendations, enhancing customer engagement and satisfaction.
+- Customer Satisfaction:
+  - Predict the satisfaction score of a customer based on various factors such as order count, complaint history, and cashback amount.
+  - To identify customers who may require additional attention or support to improve their satisfaction level.
+- Coupon Usage Prediction:
+  - Predict the likelihood of a customer using coupons in the future.
+  - To enable businesses to tailor coupon offers to individual customers, maximizing the effectiveness of promotional campaigns.
+- Cashback Amount Prediction:
+  - Predict the average cashback amount a customer is likely to receive in a given month.
+  - To optimize cashback offers and incentivize customer loyalty.
 
 
 
