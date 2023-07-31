@@ -18,7 +18,6 @@
 - Do customers with a higher number of registered devices have a lower churn rate? Is there a relationship between the number of registered devices and customer loyalty?
 - Does the preferred order category impact the churn rate? Are customers who frequently order from a specific category more likely to churn?
 - Is there a relationship between customer satisfaction score and churn rate? Do dissatisfied customers have a higher likelihood of churning?
-- How does the churn rate vary among customers with different numbers of addresses? Do customers with more addresses have lower churn rates?
 - Are customers who raised complaints in the last month more likely to churn? Is there a relationship between complaints and churn rate?
 - Is there a correlation between the percentage increase in order amount from last year and churn rate? Do customers who experienced a higher increase in order amount have a lower churn rate?
 - Does the number of coupons used impact the churn rate? Are customers who use more coupons less likely to churn?
