@@ -15,7 +15,6 @@
 - Does the distance between the warehouse and the customer's home affect the churn rate? Are customers who live farther away more likely to churn?
 - What is the distribution of preferred payment modes among churned customers? Do certain payment methods have a higher churn rate?
 - Is there a correlation between the number of hours spent on the mobile application or website and the churn rate? Do customers who spend more time have lower churn rates?
-- Do customers with a higher number of registered devices have a lower churn rate? Is there a relationship between the number of registered devices and customer loyalty?
 - Does the preferred order category impact the churn rate? Are customers who frequently order from a specific category more likely to churn?
 - Is there a relationship between customer satisfaction score and churn rate? Do dissatisfied customers have a higher likelihood of churning?
 - Are customers who raised complaints in the last month more likely to churn? Is there a relationship between complaints and churn rate?
