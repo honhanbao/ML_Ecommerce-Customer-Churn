@@ -8,7 +8,7 @@
 - In this project, analysis is designed to enable businesses to gain insights into factors that contribute to customer attrition and develop strategies to mitigate churn and improve customer retention.
 
 ## Business Questions to be analyzed
-1 What is the overall churn rate for the e-commerce business?
+1. What is the overall churn rate for the e-commerce business?
 - How does the churn rate vary by customer demographic factors such as gender, marital status, and city tier?
 - Is there a relationship between customer tenure and churn? Do long-tenured customers have lower churn rates?
 - Which preferred login device has the highest churn rate? Is there a correlation between preferred login devices and customer churn?
