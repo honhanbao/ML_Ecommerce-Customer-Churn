@@ -20,9 +20,7 @@
 9. Are customers who raised complaints in the last month more likely to churn? Is there a relationship between complaints and churn rate?
 10. Is there a correlation between the percentage increase in order amount from last year and churn rate? Do customers who experienced a higher increase in order amount have a lower churn rate?
 11. Does the number of coupons used impact the churn rate? Are customers who use more coupons less likely to churn?
-12. Is there a relationship between the number of orders placed in the last month and the churn rate? Do customers who place more orders have lower churn rates?
-13. How does the time since the last order impact the churn rate? Do customers who haven't placed an order for a long time have a higher likelihood of churning?
-14. Does the average cashback amount influence the churn rate? Are customers who receive higher cashback amounts less likely to churn?
+12. Does the average cashback amount influence the churn rate? Are customers who receive higher cashback amounts less likely to churn?
 
 
 ## Questions for prediction
