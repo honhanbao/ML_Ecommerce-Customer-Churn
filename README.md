@@ -27,7 +27,7 @@
 ## Questions for prediction
 1. Churn Prediction:
   - Predict whether a customer is likely to churn in the future.
-  - To identify customers at risk of churn and take appropriate measures to retain them.
+<!--   - To identify customers at risk of churn and take appropriate measures to retain them. -->
 <!-- Machine Learning Project Ideas -->
 
 <!-- ### 2. Preferred Payment Mode:
