@@ -27,8 +27,7 @@
 ## Questions for prediction
 1. Churn Prediction:
   - Predict whether a customer is likely to churn in the future.
-<!--   - To identify customers at risk of churn and take appropriate measures to retain them. -->
-<!-- Machine Learning Project Ideas -->
+  - To identify customers at risk of churn and take appropriate measures to retain them.
 
 <!-- ### 2. Preferred Payment Mode:
 - Predict the preferred payment mode of a customer based on their demographic information, purchase history, and other relevant factors.
@@ -42,13 +41,13 @@
 - Predict the satisfaction score of a customer based on various factors such as order count, complaint history, and cashback amount.
 - To identify customers who may require additional attention or support to improve their satisfaction level. -->
 
-<!-- ### 5. Coupon Usage Prediction:
+### 2. Coupon Usage Prediction:
 - Predict the likelihood of a customer using coupons in the future.
-- To enable businesses to tailor coupon offers to individual customers, maximizing the effectiveness of promotional campaigns. -->
+- To enable businesses to tailor coupon offers to individual customers, maximizing the effectiveness of promotional campaigns.
 
-<!-- ### 6. Cashback Amount Prediction:
+### 3. Cashback Amount Prediction:
 - Predict the average cashback amount a customer is likely to receive in a given month.
-- To optimize cashback offers and incentivize customer loyalty. -->
+- To optimize cashback offers and incentivize customer loyalty.
 
 
 
